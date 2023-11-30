@@ -1,0 +1,19 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+iframe {
+    width: 80%; /* Ajuste a largura conforme necessário */
+    height: 600px; /* Ajuste a altura conforme necessário */
+    border: 1px solid #ccc;
+    margin: 20px auto;
+    display: block;
+}
